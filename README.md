@@ -1,16 +1,14 @@
-# routine
+# Routine
 
-A new Flutter project.
+A class schedule project for students.
 
-## Getting Started
+## Notice
 
-This project is a starting point for a Flutter application.
+This is an open-source project that welcomes contributions and collaboration from anyone. Join this project today and make a difference.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Output
+![photo_2023-07-26_02-55-43](https://github.com/sabbirmohammad/Routine/assets/112420885/98941a3f-3d24-43ba-80c6-37684986c341)
+![photo_2023-07-26_02-58-44](https://github.com/sabbirmohammad/Routine/assets/112420885/c4fa5b0b-eabb-4f0c-ad90-d34e8c36d019)
+![photo_2023-07-26_02-55-43 (2)](https://github.com/sabbirmohammad/Routine/assets/112420885/a7c6908b-6075-4223-8182-2c22cb34ac7f)
+![photo_2023-07-26_02-55-43 (3)](https://github.com/sabbirmohammad/Routine/assets/112420885/a3707737-221e-4b55-add5-e2e555fdd75d)
+![photo_2023-07-26_02-55-42](https://github.com/sabbirmohammad/Routine/assets/112420885/23f791df-d81a-426d-a0e0-e5d67e309062)
